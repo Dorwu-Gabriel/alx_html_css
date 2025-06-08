@@ -19,7 +19,6 @@ This project is a vibrant, interactive landing page designed to teach the art of
 - **FontAwesome Icons:** Social media and rating stars for a lively experience.
 
 ## 🖼️ Preview
-![SmileSchool Preview](img/Figma_file.jpg)
 
 ## Header
 ![The Header Section](img/Header_banner.jpg)
