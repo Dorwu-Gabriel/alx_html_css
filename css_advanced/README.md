@@ -19,13 +19,25 @@ This project is a vibrant, interactive landing page designed to teach the art of
 - **FontAwesome Icons:** Social media and rating stars for a lively experience.
 
 ## 🖼️ Preview
-## Header
-![Header Section](img/Header_banner)
-
-## 
-![Header Section](img/Header_banner)
 ![SmileSchool Preview](img/Figma_file.jpg)
 
+## Header
+![The Header Section](img/Header_banner.jpg)
+
+## Quote Section
+![Quote Section](img/Quote_Section.jpg)
+
+## Video Section
+![TheVideo Section](img/Video_Section.jpg)
+
+## Membership Section
+![Membership Section](img/Membership_Section.jpg)
+
+## F.A.Q
+![FAQ Section](img/FAQ.jpg)
+
+## Footer
+![The Footer Section](img/Footer.jpg)
 ## 🕹️ Try It Yourself
 
 1. **Clone this repo**`git clone <your-repo-url>`
